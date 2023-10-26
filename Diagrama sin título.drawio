@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T12:06:26.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="ykq35Rs8sLReRXS6-4rB" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-26T12:14:38.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="GgifP-IATBuB4I8GCQKd" version="22.0.8" type="github" pages="3">
   <diagram name="Programación" id="oDZthETsX2DHlRWc-pWi">
     <mxGraphModel dx="2490" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,12 +36,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wiRps2ILu9WRa80Pd8o8" name="Procesos">
-    <mxGraphModel dx="3673" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dIpv1vz0n_DZOZ0VKOJK-1" value="Modelo" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="-160" y="70" width="1620" height="868.33" as="geometry" />
+          <mxGeometry x="-320" y="70" width="1780" height="900" as="geometry" />
         </mxCell>
         <mxCell id="dIpv1vz0n_DZOZ0VKOJK-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-4" target="dIpv1vz0n_DZOZ0VKOJK-5">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +85,7 @@
         </mxCell>
         <UserObject label="INDEX WEB" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
-            <mxGeometry x="869" y="358.33" width="140" height="61.67" as="geometry" />
+            <mxGeometry x="1080" y="358.33" width="140" height="61.67" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DASHABOARD" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-11">
@@ -136,6 +136,129 @@
             <mxGeometry x="600" y="488.33" width="130" height="41.67" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="DATOS DEL USUARIO" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="849" y="488.3299999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SERVICIOS" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-22">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="989" y="488.3299999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CONTACTO LIBQ" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-23">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="1138" y="488.3299999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PAGOS" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-24">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="1289" y="488.3299999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="REPORTES" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-25">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="1439" y="488.3299999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-14" target="dIpv1vz0n_DZOZ0VKOJK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="368" as="sourcePoint" />
+            <mxPoint x="789" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-16" target="dIpv1vz0n_DZOZ0VKOJK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="508" as="sourcePoint" />
+            <mxPoint x="389" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-17" target="dIpv1vz0n_DZOZ0VKOJK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="518" as="sourcePoint" />
+            <mxPoint x="399" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-18" target="dIpv1vz0n_DZOZ0VKOJK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="528" as="sourcePoint" />
+            <mxPoint x="409" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-21" target="dIpv1vz0n_DZOZ0VKOJK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="480" as="sourcePoint" />
+            <mxPoint x="419" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-22" target="dIpv1vz0n_DZOZ0VKOJK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="924" y="498" as="sourcePoint" />
+            <mxPoint x="1160" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-23" target="dIpv1vz0n_DZOZ0VKOJK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="934" y="508" as="sourcePoint" />
+            <mxPoint x="1170" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dIpv1vz0n_DZOZ0VKOJK-1" source="dIpv1vz0n_DZOZ0VKOJK-25" target="dIpv1vz0n_DZOZ0VKOJK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1223" y="508" as="sourcePoint" />
+            <mxPoint x="1170" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="dIpv1vz0n_DZOZ0VKOJK-14" target="dIpv1vz0n_DZOZ0VKOJK-40" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="LISTA SERVICIOS" treeRoot="1" id="dIpv1vz0n_DZOZ0VKOJK-40">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="dIpv1vz0n_DZOZ0VKOJK-1">
+            <mxGeometry x="10" y="629.9999999999999" width="130" height="41.67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIpv1vz0n_DZOZ0VKOJK-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-145" y="568" as="sourcePoint" />
+            <mxPoint x="140" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIpv1vz0n_DZOZ0VKOJK-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIpv1vz0n_DZOZ0VKOJK-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="983" y="568" as="sourcePoint" />
+            <mxPoint x="920" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
